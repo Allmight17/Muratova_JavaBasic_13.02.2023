@@ -1,4 +1,8 @@
-package com.hillel.muratova.homework.homework2;public class home {
+package com.hillel.muratova.homework.homework2;
+
+import java.sql.SQLOutput;
+
+public class home {
     public static void main(String[] args) {
         int a = 13;
         int b = 9;
@@ -11,6 +15,10 @@ package com.hillel.muratova.homework.homework2;public class home {
         System.out.println("Machu Picchu coordinates:");
         System.out.println("DMS Lat:"+ a + g + b + h + c + "'' S" );
         System.out.println("DMS Long:"+ d + g + e + h + f + "'' W" );
+
+      System.out.println();
+      System.out.println("Enjoy your day!");
+
 
 
 

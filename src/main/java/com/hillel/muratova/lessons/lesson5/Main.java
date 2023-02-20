@@ -1,4 +1,4 @@
-package com.hillel.muratova.lessons;
+package com.hillel.muratova.lessons.lesson5;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;

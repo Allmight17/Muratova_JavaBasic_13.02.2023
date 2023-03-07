@@ -1,4 +1,4 @@
-package com.hillel.muratova.homework.honework10;
+package com.hillel.muratova.homework.homework10;
 
 import java.util.Arrays;
 
